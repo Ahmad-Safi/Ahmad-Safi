@@ -1,16 +1,41 @@
-## Hi there 👋
+#  Ahmad-Safi
 
-<!--
-**Ahmad-Safi/Ahmad-Safi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MIS Student | Interested in Data Analysis | Learning Python, SQL, and Power BI and sharing the projects I build here.
+
+---
+
+## 🛠 Skills and Experience
+
+- 🐍 *Python*
+- 📈 Data Analysis & Visualization
+- 🗄 Databases
+
+
+
+---
+
+## 📊 GitHub Insights
+
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Safi&show_icons=true&theme=default)
+
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Safi&layout=compact&theme=default)
+
+
+<!-- GitHub Streak Card -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahmad-Safi&theme=default)
+
+
+
+
+
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ahmadsafiurrahman/)
